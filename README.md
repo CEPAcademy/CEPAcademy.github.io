@@ -88,15 +88,19 @@
 	}
 	.button1{
 		background-color: #27FEE9;
-		width:107.1%;
-		border-radius: 12px;
+		width:100%;
+		height: 60%;
+		border-radius: 30%;
+		margin-left: 40%;
 
 	}
 
 	.button2{
 		background-color: #74FE6F;
-		width:107.1%;
-		border-radius: 12px;
+		width:100%;
+		height: 60%;
+		border-radius: 30%;
+		
 	}
 
 	.button3{
@@ -107,19 +111,27 @@
 	}
 	.button4{
 		background-color: #FEAA01;
-		width:107.1%;
+		
 		cursor: not-allowed;
 		opacity: 0.6;
+		width:100%;
+		height: 60%;
+		border-radius: 30%;
+		margin-left: 25%;
 		
-		border-radius: 12px;
+
+
 	}
 	.button5{
 		background-color: #D77EFD;
-		width:107.1%;
-		height: 93px;
+		
 		cursor: not-allowed;
 		opacity: 0.6;
-		border-radius: 12px;
+		
+		width:100%;
+		height: 60%;
+		border-radius: 30%;
+		
 	}
 
 	
@@ -160,7 +172,7 @@
 
 	}
 	.slogo{
-		font-size: 800%;
+		font-size: 300%;
 		font-family: cursive;
 	    color: #769EFB;
 	    font-weight: 10px;
@@ -211,10 +223,10 @@
 
               <ul>
               	<li>
-              	<a href="learnenglish.html" class="button1">     Learn English Instruction Videos|英文教学视频|Aprende inglés|Выучить английский язык|學習英語視頻</a>
-               <a href="learnchinese.html" class="button2">Learn Chinese Instruction Videos|中文教学视频|Aprender chino|Учить китайский|學習中文視頻</a>
-               <a href="learnspanish.html" class="button4">Learn Spanish Instruction VIdeos|西班牙语教学视频|Aprender español|Учить испанский|學西班牙語</a>
-               <a href="learnrussian.html" class="button5">Learn Russian Instruction Videos|俄罗斯语教学视频|Aprender ruso|Учить русский|學俄語 </a>
+              	<a href="learnenglish.html" class="button1"> Learn English|英文教学视频|Aprende inglés|Выучить английский язык|學英語</a>
+               <a href="learnchinese.html" class="button2">Learn Chinese |中文教学视频|    Aprender chino|Учить китайский|學習中文視頻</a>
+               <a href="learnspanish.html" class="button4">Learn Spanish |西班牙语教学视频|Aprender español|Учить испанский|</a>
+               <a href="learnrussian.html" class="button5">Learn Russian |俄罗斯语教学视频|Aprender ruso|Учить русский|學俄語 </a>
               
                </li>
               </ul>
