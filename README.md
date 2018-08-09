@@ -179,7 +179,16 @@
 		
 	}
 
-	
+	@viewport{
+		zoom:1.0;
+		width: extended-to-zoom;
+
+
+	}
+	@-ms-viewport{
+		width: extended-to-zoom;
+		zoom:1.0;
+	}
 
 
 	
@@ -195,6 +204,7 @@
 
 	<body>
 		<header>
+			<meta name="viewport" content="width=device-width,initial-scale=1">
 			<h1>CEP Learning Academy</h1>
 			<nav>
 				<ul>
