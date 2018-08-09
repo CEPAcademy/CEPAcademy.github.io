@@ -91,7 +91,7 @@
 		width:100%;
 		height: 60%;
 		border-radius: 30%;
-		margin-left: 40%;
+		
 
 	}
 
@@ -103,12 +103,7 @@
 		
 	}
 
-	.button3{
-		background-color: salmon;
-		width:107.1%;
-		
-		border-radius: 12px;
-	}
+	
 	.button4{
 		background-color: #FEAA01;
 		
@@ -117,7 +112,7 @@
 		width:100%;
 		height: 60%;
 		border-radius: 30%;
-		margin-left: 25%;
+		
 		
 
 
@@ -127,7 +122,6 @@
 		
 		cursor: not-allowed;
 		opacity: 0.6;
-		
 		width:100%;
 		height: 60%;
 		border-radius: 30%;
@@ -141,7 +135,7 @@
 		border: 5px solid #C5F9FE;
 		font-size:80%;
 		font-family: monospace;
-		width:50%;
+		width:100%;
 		color: black;
 		float: right;
 		
@@ -162,7 +156,7 @@
 	}
 
 	.emoji1{
-		font-size: 25em;
+		font-size: 700%;
 		float: right;
 		margin:9.5%;
 		margin-bottom: 2%;
@@ -172,10 +166,11 @@
 
 	}
 	.slogo{
-		font-size: 300%;
+		font-size: 800%;
 		font-family: cursive;
 	    color: #769EFB;
-	    font-weight: 10px;
+	    font-weight: 30%;
+	    text-indent: 5%
 		
 	}
 
@@ -241,19 +236,17 @@
                </li>
               </ul>
 
-              
-<h1>
-              <p class="description"> In this program we teach young aspiring students to learn and practice,<strong> ALSO</strong>, to learn new things with enjoyments. Although, learning a new language may be a daunting task, but if you practice every day for 30 minutes, you will see an improvement in your language abilities. We not only focus on your writing or knowledge. Moreover, we also focus on your speaking and listening, because many students who learn a new language can write, but rarely speak the language fluently. We have practice sheets and work sheets listed after each section to improve your writing, listening, speaking, and reading. </p></h1>
-          
-
-             
                
 
              
                
-               <p class="emoji1">😄</p>
+           
 
                <p class="slogo">Have Fun Learning</p>
+               <h1>
+              <p class="description"> In this program we teach young aspiring students to learn and practice,<strong> ALSO</strong>, to learn new things with enjoyments. Although, learning a new language may be a daunting task, but if you practice every day for 30 minutes, you will see an improvement in your language abilities. We not only focus on your writing or knowledge. Moreover, we also focus on your speaking and listening, because many students who learn a new language can write, but rarely speak the language fluently. We have practice sheets and work sheets listed after each section to improve your writing, listening, speaking, and reading. </p></h1>
+
+              <p class="emoji1">😄</p>
 
 
                
