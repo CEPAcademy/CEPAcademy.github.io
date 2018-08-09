@@ -7,37 +7,28 @@
 	<title>CEP Academy</title>
 	<style>
 	
-
 		*{
 			margin: 0;
 			padding: 0;
 		}
-
 		body{
 			background-color: #98FED9;
 		}
-
 	 nav{
 	 	width: 100%;
 	 	height: 100px;
 	 	background-color:#38ADD8;
-
 	 }
-
 	ul{
 		display: inline-block;
-
 	}
-
 	ul li{
 		list-style: none;
 		display: inline-block;
 		float: left;
 		line-height: 100px;
 		position: relative;
-
 	}
-
 	ul li a{
 		display: block;
 		text-decoration: none;
@@ -45,12 +36,8 @@
 		font-family: monospace;
 		color: #AE0000;
 		padding: 0 20px;
-
-
 	}
-
 	
-
 	
 	header{
 		text-align: center;
@@ -59,26 +46,21 @@
 		background-color: #EEF438;
 		font-family: cursive;
 	}
-
 	footer{
 		width: 100%;
 		background-color: #222;
 		padding: 60px 0px;
 	}
-
 	html,body{
 		height: 100%;
 	}
-
 	#foot{
 		min-height: 100%;
 	}
-
 	#main{
 		overflow: auto;
 		padding-bottom: 60px;
 	}
-
 	#footer{
 		background-color: #CDF363;
 		position: relative;
@@ -88,46 +70,40 @@
 	}
 	.button1{
 		background-color: #27FEE9;
-		width:100%;
+		width:95%;
 		height: 60%;
 		border-radius: 30%;
 		
-
 	}
-
 	.button2{
 		background-color: #74FE6F;
-		width:100%;
+		width:95%;
 		height: 60%;
 		border-radius: 30%;
 		
 	}
-
 	
 	.button4{
 		background-color: #FEAA01;
 		
 		cursor: not-allowed;
 		opacity: 0.6;
-		width:100%;
+		width:95%;
 		height: 60%;
 		border-radius: 30%;
 		
 		
-
-
 	}
 	.button5{
 		background-color: #D77EFD;
 		
 		cursor: not-allowed;
 		opacity: 0.6;
-		width:100%;
+		width:95%;
 		height: 60%;
 		border-radius: 30%;
 		
 	}
-
 	
 			
 	.description{
@@ -135,15 +111,11 @@
 		border: 5px solid #C5F9FE;
 		font-size:80%;
 		font-family: monospace;
-		width:100%;
+		width:95%;
 		color: black;
 		float: right;
 		
-
-
 	}
-
-
 	.english-video{
 		float: right;
 		margin: 0.5%;	
@@ -152,54 +124,32 @@
 		width:82%;
 		border-color: yellow;
 			
-
 	}
-
 	.emoji1{
-		font-size: 700%;
+		font-size: 2000%;
 		float: right;
 		margin:9.5%;
 		margin-bottom: 2%;
 		margin-top: 1%;
-
 		
-
 	}
 	.slogo{
-		font-size: 800%;
+		font-size: 750%;
 		font-family: cursive;
 	    color: #769EFB;
 	    font-weight: 30%;
 	    text-indent: 5%
 		
 	}
-
-	@viewport{
-		zoom:1.0;
-		width: extended-to-zoom;
-
-
-	}
-	@-ms-viewport{
-		width: extended-to-zoom;
-		zoom:1.0;
-	}
-
-
 	
-
 	
-
-
-
-
-
+	
 </style>
 	</head>
 
 	<body>
 		<header>
-			<meta name="viewport" content="width=device-width,initial-scale=1">
+			
 			<h1>CEP Learning Academy</h1>
 			<nav>
 				<ul>
